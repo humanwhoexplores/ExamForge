@@ -1,0 +1,598 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R] /Count 11 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 4505 >>
+stream
+BT /F2 18.00 Tf 1 0 0 1 54.00 738.00 Tm (GRE-Style Verbal Reasoning Practice Set) Tj ET
+54.00 706.00 m 558.00 706.00 l S
+BT /F1 10.00 Tf 1 0 0 1 54.00 694.00 Tm (Generated from data/gre_verbal_generated_30_from_pdfs.jsonl) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 674.80 Tm (This reader copy places all answer keys and explanations after the questions so you can work through the) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 660.94 Tm (set before checking solutions.) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 633.08 Tm (Contents: 15 Reading Comprehension questions, 9 Text Completion questions, and 6 Sentence Equivalence) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 619.22 Tm (questions.) Tj ET
+BT /F2 18.00 Tf 1 0 0 1 54.00 599.36 Tm (Questions) Tj ET
+54.00 567.36 m 558.00 567.36 l S
+BT /F2 14.00 Tf 1 0 0 1 54.00 555.36 Tm (Reading Comprehension) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 529.36 Tm (Passage 1) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 509.36 Tm (Museum conservators have increasingly used multispectral imaging to study old paintings without removing) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 495.50 Tm (varnish or sampling pigment. The technique can reveal underdrawings and later revisions, but its results) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 481.64 Tm (are not self-interpreting. A dark shape beneath a painted surface may indicate an abandoned compositional) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 467.78 Tm (plan, a repair, or even a stain in a preparatory layer. For this reason, some conservators argue that) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 453.92 Tm (imaging should be treated less as a decisive diagnostic tool than as a source of hypotheses to be checked) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 440.06 Tm (against archival records, material analysis, and knowledge of an artist's workshop practices. The most) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 426.20 Tm (persuasive attributions, in their view, emerge when technical evidence and historical context constrain one) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 412.34 Tm (another.) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 388.48 Tm (rc-001. Which of the following best states the main point of the passage?) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 369.62 Tm (A. Multispectral imaging has made traditional archival research largely unnecessary in conservation work.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 353.42 Tm (B. Technical imaging is valuable in conservation, but its findings require corroboration from other forms of) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 340.22 Tm (evidence.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 324.02 Tm (C. The best way to attribute paintings is to compare their visible style with an artist's authenticated) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 310.82 Tm (works.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 294.62 Tm (D. Conservators disagree primarily about whether old varnish should be removed before paintings are) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 281.42 Tm (studied.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 265.22 Tm (E. Material analysis is less reliable than imaging because it can damage fragile paintings.) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 249.02 Tm () Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 239.74 Tm (rc-002. The passage suggests that the conservators mentioned would be most skeptical of which of) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 225.88 Tm (the following claims?) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 207.02 Tm (A. An image beneath the paint surface can sometimes help identify a painter's working method.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 190.82 Tm (B. A single imaging result can conclusively establish a painting's attribution without further inquiry.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 174.62 Tm (C. Archival records may help determine whether a painted revision is historically plausible.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 158.42 Tm (D. A technical finding may prompt researchers to ask new questions about a painting.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 142.22 Tm (E. Workshop practices can be relevant to interpreting physical evidence in a painting.) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 126.02 Tm () Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 116.74 Tm (rc-003. Based on the passage, which of the following are possible interpretations of a dark shape) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 102.88 Tm (revealed beneath a painted surface? Select all that apply.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 84.02 Tm (A. It may be evidence of a composition the artist began but did not complete.) Tj ET
+BT /F1 9.00 Tf 1 0 0 1 288.00 28.00 Tm (Page 1) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 5013 >>
+stream
+BT /F1 10.00 Tf 1 0 0 1 70.00 738.00 Tm (B. It may result from damage or alteration unrelated to the artist's original design.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 721.80 Tm (C. It may prove that the visible painting was executed by a different artist.) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 705.60 Tm () Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 696.32 Tm (Passage 2) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 676.32 Tm (Urban planners often praise tree-planting campaigns for cooling neighborhoods, but recent monitoring) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 662.46 Tm (complicates that simple picture. In districts where mature trees shade pavement and buildings) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 648.60 Tm (throughout the afternoon, average surface temperatures do fall. Yet in narrow streets bordered by tall) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 634.74 Tm (buildings, dense plantings can reduce air circulation and trap humid air after sunset. The result is that) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 620.88 Tm (residents may experience less daytime heat but little nighttime relief, a problem for people whose health) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 607.02 Tm (depends on recovery during cooler hours. Planners therefore increasingly distinguish between adding canopy) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 593.16 Tm (and designing ventilation corridors. The distinction does not diminish the value of trees; rather, it suggests) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 579.30 Tm (that vegetation must be placed with attention to street geometry and daily temperature cycles.) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 555.44 Tm (rc-004. Which of the following best captures the passage's treatment of urban tree planting?) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 536.58 Tm (A. It rejects tree planting because dense vegetation usually increases heat exposure.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 520.38 Tm (B. It argues that tree planting is beneficial only in neighborhoods without tall buildings.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 504.18 Tm (C. It presents tree planting as useful but dependent on local physical conditions.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 487.98 Tm (D. It maintains that ventilation corridors are less important than maximizing canopy area.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 471.78 Tm (E. It claims that nighttime heat is caused chiefly by a lack of public health planning.) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 455.58 Tm () Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 446.30 Tm (rc-005. The passage implies that a tree-planting plan would be most vulnerable to criticism if it) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 427.44 Tm (A. gave priority to streets where residents currently have little shade at midday.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 411.24 Tm (B. used mature species that create afternoon shade on paved surfaces.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 395.04 Tm (C. treated total canopy coverage as sufficient without considering airflow after sunset.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 378.84 Tm (D. included measurements of both surface temperature and humidity.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 362.64 Tm (E. paired vegetation with changes to building materials and pavement color.) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 346.44 Tm () Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 337.16 Tm (rc-006. Select the sentence that most directly states the practical planning conclusion drawn from) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 323.30 Tm (the evidence in the passage.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 304.44 Tm (A. Urban planners often praise tree-planting campaigns for cooling neighborhoods, but recent monitoring) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 291.24 Tm (complicates that simple picture.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 275.04 Tm (B. In districts where mature trees shade pavement and buildings throughout the afternoon, average) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 261.84 Tm (surface temperatures do fall.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 245.64 Tm (C. Yet in narrow streets bordered by tall buildings, dense plantings can reduce air circulation and trap humid) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 232.44 Tm (air after sunset.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 216.24 Tm (D. The result is that residents may experience less daytime heat but little nighttime relief, a problem for) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 203.04 Tm (people whose health depends on recovery during cooler hours.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 186.84 Tm (E. Planners therefore increasingly distinguish between adding canopy and designing ventilation corridors.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 170.64 Tm (F. The distinction does not diminish the value of trees; rather, it suggests that vegetation must be placed) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 157.44 Tm (with attention to street geometry and daily temperature cycles.) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 141.24 Tm () Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 131.96 Tm (Passage 3) Tj ET
+BT /F1 9.00 Tf 1 0 0 1 288.00 28.00 Tm (Page 2) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 5499 >>
+stream
+BT /F1 10.50 Tf 1 0 0 1 54.00 738.00 Tm (A common account of medieval marginal drawings treats them as comic eruptions at the edges of) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 724.14 Tm (otherwise solemn books. That description is not wrong, but it is incomplete. Marginal images could mock) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 710.28 Tm (authority, entertain a reader, mark a section for later use, or extend a manuscript's argument by visual) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 696.42 Tm (analogy. A rabbit hunting a hound, for instance, need not be merely absurd; it might invert a familiar) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 682.56 Tm (hierarchy and thereby echo a text's interest in worldly instability. Because many manuscripts were) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 668.70 Tm (collaborative objects, the meaning of a marginal figure may also depend on who added it and when. Treating) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 654.84 Tm (the margins as decorative leftovers risks missing how actively they could participate in reading.) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 630.98 Tm (rc-007. The author of the passage would most likely agree with which of the following statements) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 617.12 Tm (about medieval marginal drawings?) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 598.26 Tm (A. They should be interpreted as serious theological arguments rather than as humorous images.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 582.06 Tm (B. Their meaning can be more varied and textually engaged than a purely comic account suggests.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 565.86 Tm (C. They were usually added by readers long after the manuscript text had ceased to be studied.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 549.66 Tm (D. Their value lies mainly in showing that medieval artists rejected hierarchy.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 533.46 Tm (E. They are too ambiguous to support any claim about how manuscripts were read.) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 517.26 Tm () Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 507.98 Tm (rc-008. The example of the rabbit hunting a hound serves primarily to) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 489.12 Tm (A. show that marginal drawings were normally intended to replace written commentary.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 472.92 Tm (B. illustrate how an apparently comic image could reinforce a manuscript's theme.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 456.72 Tm (C. demonstrate that animal images were more common than human figures in manuscripts.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 440.52 Tm (D. identify the earliest known use of visual inversion in manuscript decoration.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 424.32 Tm (E. suggest that readers preferred images whose meanings were fixed and obvious.) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 408.12 Tm () Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 398.84 Tm (rc-009. According to the passage, which of the following are possible functions of marginal images?) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 384.98 Tm (Select all that apply.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 366.12 Tm (A. They could help a reader locate a portion of a manuscript.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 349.92 Tm (B. They could visually develop an idea present in the manuscript's text.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 333.72 Tm (C. They could guarantee that all later readers understood a manuscript in the same way.) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 317.52 Tm () Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 308.24 Tm (Passage 4) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 288.24 Tm (A nonprofit that delivers meals to older adults recently replaced fixed delivery routes with software that) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 274.38 Tm (assigns stops each morning. Managers reported that the change shortened average driving time and) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 260.52 Tm (allowed the same staff to serve more clients. Volunteers, however, noticed that some clients became less) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 246.66 Tm (willing to mention spoiled food or missed items, because they no longer saw the same driver repeatedly.) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 232.80 Tm (The old routes had created informal relationships through which small problems were reported before) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 218.94 Tm (they became formal complaints. The software therefore improved one measurable efficiency while) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 205.08 Tm (weakening a feedback channel that had rarely appeared in performance reports.) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 181.22 Tm (rc-010. Which of the following best describes the passage's central claim?) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 162.36 Tm (A. The software failed because it did not shorten delivery routes enough to reduce staff workload.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 146.16 Tm (B. Efficiency improvements can obscure losses in informal communication that matter to service quality.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 129.96 Tm (C. Older adults are generally reluctant to report problems unless nonprofit managers solicit complaints.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 113.76 Tm (D. Fixed delivery routes are always preferable to software-generated routes in nonprofit programs.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 97.56 Tm (E. Performance reports are useful only when they exclude informal feedback from clients.) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 81.36 Tm () Tj ET
+BT /F1 9.00 Tf 1 0 0 1 288.00 28.00 Tm (Page 3) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 5342 >>
+stream
+BT /F2 10.50 Tf 1 0 0 1 54.00 738.00 Tm (rc-011. Which of the following, if true, would most strengthen the volunteers' concern?) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 719.14 Tm (A. The software reduced fuel use by grouping stops that were near one another.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 702.94 Tm (B. Clients who received visits from a consistent driver were more likely to report minor delivery problems) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 689.74 Tm (promptly.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 673.54 Tm (C. Some volunteers preferred using printed maps instead of mobile applications.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 657.34 Tm (D. The nonprofit planned to add several new clients in neighborhoods it already served.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 641.14 Tm (E. Managers reviewed delivery times more frequently after the software was introduced.) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 624.94 Tm () Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 615.66 Tm (rc-012. Select the sentence that introduces evidence complicating the managers' favorable) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 601.80 Tm (assessment of the software.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 582.94 Tm (A. A nonprofit that delivers meals to older adults recently replaced fixed delivery routes with software) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 569.74 Tm (that assigns stops each morning.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 553.54 Tm (B. Managers reported that the change shortened average driving time and allowed the same staff to serve) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 540.34 Tm (more clients.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 524.14 Tm (C. Volunteers, however, noticed that some clients became less willing to mention spoiled food or missed) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 510.94 Tm (items, because they no longer saw the same driver repeatedly.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 494.74 Tm (D. The old routes had created informal relationships through which small problems were reported before) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 481.54 Tm (they became formal complaints.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 465.34 Tm (E. The software therefore improved one measurable efficiency while weakening a feedback channel that had) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 452.14 Tm (rarely appeared in performance reports.) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 435.94 Tm () Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 426.66 Tm (Passage 5) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 406.66 Tm (Ecologists studying restored wetlands often count returning bird species as a sign of success. Species) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 392.80 Tm (counts are useful, but they can mislead when treated as proof that a wetland's ecological functions have) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 378.94 Tm (recovered. Some birds visit newly flooded areas because open water makes foraging easy, even when the) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 365.08 Tm (underlying plant community remains simplified. Other species may nest there only briefly if seasonal water) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 351.22 Tm (levels fluctuate too sharply. For this reason, several researchers recommend pairing bird surveys with) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 337.36 Tm (measurements of soil chemistry, vegetation structure, and invertebrate abundance. Their point is not that) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 323.50 Tm (birds are poor indicators, but that a conspicuous response by mobile animals may precede slower changes in) Tj ET
+BT /F1 10.50 Tf 1 0 0 1 54.00 309.64 Tm (the habitat itself.) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 285.78 Tm (rc-013. The passage is primarily concerned with) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 266.92 Tm (A. arguing that bird surveys should be abandoned in favor of soil and vegetation measures.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 250.72 Tm (B. explaining why one visible sign of restoration success should be interpreted with caution.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 234.52 Tm (C. showing that restored wetlands are usually less stable than natural wetlands.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 218.32 Tm (D. comparing the nesting habits of wetland birds with those of other mobile animals.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 202.12 Tm (E. criticizing ecologists for ignoring species counts when evaluating restoration projects.) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 185.92 Tm () Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 176.64 Tm (rc-014. The passage suggests that a restored wetland with many visiting bird species might still be) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 162.78 Tm (considered incompletely recovered if) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 143.92 Tm (A. its soil, plant, and invertebrate conditions remain unlike those of a functioning wetland.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 127.72 Tm (B. it attracts species that are difficult for observers to distinguish from one another.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 111.52 Tm (C. its open water allows some birds to forage more efficiently than they could elsewhere.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 95.32 Tm (D. bird surveys there are conducted more often than vegetation surveys.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 79.12 Tm (E. mobile animals respond to habitat changes later than plants and invertebrates do.) Tj ET
+BT /F1 9.00 Tf 1 0 0 1 288.00 28.00 Tm (Page 4) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 3371 >>
+stream
+BT /F1 4.00 Tf 1 0 0 1 54.00 738.00 Tm () Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 728.72 Tm (rc-015. Which of the following would the researchers mentioned in the passage likely regard as useful) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 714.86 Tm (additions to bird surveys? Select all that apply.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 696.00 Tm (A. Assessments of the wetland's plant structure.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 679.80 Tm (B. Measurements of invertebrate abundance.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 663.60 Tm (C. Counts of bird species conducted without other habitat data.) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 647.40 Tm () Tj ET
+BT /F2 14.00 Tf 1 0 0 1 54.00 638.12 Tm (Text Completion) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 612.12 Tm (tc-001. Although the committee's public statement sounded conciliatory, its private memorandum) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 598.26 Tm (was markedly [blank_1], dismissing every compromise as naive.) Tj ET
+BT /F2 10.00 Tf 1 0 0 1 70.00 579.40 Tm (Blank 1) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 563.20 Tm (A. placatory) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 548.00 Tm (B. intransigent) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 532.80 Tm (C. diffident) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 517.60 Tm (D. redundant) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 502.40 Tm (E. methodical) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 487.20 Tm () Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 476.92 Tm (tc-002. The software's interface was so [blank_1] that new users could complete complex tasks) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 463.06 Tm (without consulting the manual.) Tj ET
+BT /F2 10.00 Tf 1 0 0 1 70.00 444.20 Tm (Blank 1) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 428.00 Tm (A. intuitive) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 412.80 Tm (B. ornate) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 397.60 Tm (C. volatile) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 382.40 Tm (D. opaque) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 367.20 Tm (E. peripheral) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 352.00 Tm () Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 341.72 Tm (tc-003. The historian's prose is not [blank_1]; even when she contests a rival interpretation, she does) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 327.86 Tm (so without theatrical denunciation.) Tj ET
+BT /F2 10.00 Tf 1 0 0 1 70.00 309.00 Tm (Blank 1) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 292.80 Tm (A. polemical) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 277.60 Tm (B. chronological) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 262.40 Tm (C. assiduous) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 247.20 Tm (D. elliptical) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 232.00 Tm (E. judicious) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 216.80 Tm () Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 206.52 Tm (tc-004. The architect's proposal was praised for its \(i\) [blank_1], but city engineers warned that its) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 192.66 Tm (technical specifications remained \(ii\) [blank_2].) Tj ET
+BT /F2 10.00 Tf 1 0 0 1 70.00 173.80 Tm (Blank 1) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 157.60 Tm (A. ingenuity) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 142.40 Tm (B. redundancy) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 127.20 Tm (C. fragility) Tj ET
+BT /F2 10.00 Tf 1 0 0 1 70.00 112.00 Tm (Blank 2) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 95.80 Tm (D. impracticable) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 80.60 Tm (E. lavish) Tj ET
+BT /F1 9.00 Tf 1 0 0 1 288.00 28.00 Tm (Page 5) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 3168 >>
+stream
+BT /F1 10.00 Tf 1 0 0 1 84.00 738.00 Tm (F. transparent) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 722.80 Tm () Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 712.52 Tm (tc-005. Because the review board had often approved projects after only cursory discussion, its) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 698.66 Tm (sudden demand for extensive documentation seemed less a sign of new \(i\) [blank_1] than of) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 684.80 Tm (institutional \(ii\) [blank_2].) Tj ET
+BT /F2 10.00 Tf 1 0 0 1 70.00 665.94 Tm (Blank 1) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 649.74 Tm (A. scrupulousness) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 634.54 Tm (B. improvisation) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 619.34 Tm (C. candor) Tj ET
+BT /F2 10.00 Tf 1 0 0 1 70.00 604.14 Tm (Blank 2) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 587.94 Tm (D. continuity) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 572.74 Tm (E. caprice) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 557.54 Tm (F. deference) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 542.34 Tm () Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 532.06 Tm (tc-006. The editor was not trying to \(i\) [blank_1] the novelist's eccentric style; rather, her notes) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 518.20 Tm (aimed to make its deliberate oddities more \(ii\) [blank_2] to readers.) Tj ET
+BT /F2 10.00 Tf 1 0 0 1 70.00 499.34 Tm (Blank 1) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 483.14 Tm (A. standardize) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 467.94 Tm (B. celebrate) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 452.74 Tm (C. amplify) Tj ET
+BT /F2 10.00 Tf 1 0 0 1 70.00 437.54 Tm (Blank 2) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 421.34 Tm (D. onerous) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 406.14 Tm (E. discernible) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 390.94 Tm (F. incidental) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 375.74 Tm () Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 365.46 Tm (tc-007. The biographer resists the temptation to make her subject either wholly admirable or wholly) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 351.60 Tm (contemptible: she \(i\) [blank_1] his public generosity, documents his private evasions, and refuses to let) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 337.74 Tm (either body of evidence \(ii\) [blank_2] the other. The result is a portrait whose moral judgment is \(iii\)) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 323.88 Tm ([blank_3] rather than evasive.) Tj ET
+BT /F2 10.00 Tf 1 0 0 1 70.00 305.02 Tm (Blank 1) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 288.82 Tm (A. acknowledges) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 273.62 Tm (B. fabricates) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 258.42 Tm (C. trivializes) Tj ET
+BT /F2 10.00 Tf 1 0 0 1 70.00 243.22 Tm (Blank 2) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 227.02 Tm (D. eclipse) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 211.82 Tm (E. corroborate) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 196.62 Tm (F. diversify) Tj ET
+BT /F2 10.00 Tf 1 0 0 1 70.00 181.42 Tm (Blank 3) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 165.22 Tm (G. nuanced) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 150.02 Tm (H. peremptory) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 134.82 Tm (I. incoherent) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 119.62 Tm () Tj ET
+BT /F1 9.00 Tf 1 0 0 1 288.00 28.00 Tm (Page 6) Tj ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 18 0 R >>
+endobj
+18 0 obj
+<< /Length 3364 >>
+stream
+BT /F2 10.50 Tf 1 0 0 1 54.00 738.00 Tm (tc-008. At first the laboratory's failure to reproduce the celebrated result seemed to \(i\) [blank_1]) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 724.14 Tm (the original study. Subsequent audits, however, found that the new experiment had used a) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 710.28 Tm (contaminated reagent, making the failed replication \(ii\) [blank_2] as evidence against the earlier finding) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 696.42 Tm (and leaving the debate largely \(iii\) [blank_3].) Tj ET
+BT /F2 10.00 Tf 1 0 0 1 70.00 677.56 Tm (Blank 1) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 661.36 Tm (A. discredit) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 646.16 Tm (B. vindicate) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 630.96 Tm (C. publicize) Tj ET
+BT /F2 10.00 Tf 1 0 0 1 70.00 615.76 Tm (Blank 2) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 599.56 Tm (D. decisive) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 584.36 Tm (E. irrelevant) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 569.16 Tm (F. redundant) Tj ET
+BT /F2 10.00 Tf 1 0 0 1 70.00 553.96 Tm (Blank 3) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 537.76 Tm (G. settled) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 522.56 Tm (H. unresolved) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 507.36 Tm (I. anachronistic) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 492.16 Tm () Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 481.88 Tm (tc-009. The essay's opening pages promise a \(i\) [blank_1] defense of local journalism, but the) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 468.02 Tm (argument soon becomes oddly \(ii\) [blank_2]: after listing threats to small newspapers, the author) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 454.16 Tm (digresses into anecdotes that neither explain those threats nor suggest remedies. What began as) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 440.30 Tm (advocacy thus ends in \(iii\) [blank_3].) Tj ET
+BT /F2 10.00 Tf 1 0 0 1 70.00 421.44 Tm (Blank 1) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 405.24 Tm (A. cogent) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 390.04 Tm (B. perfunctory) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 374.84 Tm (C. hostile) Tj ET
+BT /F2 10.00 Tf 1 0 0 1 70.00 359.64 Tm (Blank 2) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 343.44 Tm (D. focused) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 328.24 Tm (E. desultory) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 313.04 Tm (F. incisive) Tj ET
+BT /F2 10.00 Tf 1 0 0 1 70.00 297.84 Tm (Blank 3) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 281.64 Tm (G. diffusion) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 266.44 Tm (H. consensus) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 84.00 251.24 Tm (I. exoneration) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 236.04 Tm () Tj ET
+BT /F2 14.00 Tf 1 0 0 1 54.00 225.76 Tm (Sentence Equivalence) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 199.76 Tm (se-001. The judge's opinion was unusually [blank_1], avoiding broad pronouncements and deciding only) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 185.90 Tm (the narrow issue before the court.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 167.04 Tm (A. sweeping) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 151.84 Tm (B. circumscribed) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 136.64 Tm (C. caustic) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 121.44 Tm (D. limited) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 106.24 Tm (E. ceremonial) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 91.04 Tm (F. expansive) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 75.84 Tm () Tj ET
+BT /F1 9.00 Tf 1 0 0 1 288.00 28.00 Tm (Page 7) Tj ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 20 0 R >>
+endobj
+20 0 obj
+<< /Length 3383 >>
+stream
+BT /F2 10.50 Tf 1 0 0 1 54.00 738.00 Tm (se-002. Because the witness revised her account each time new evidence appeared, the attorney) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 724.14 Tm (portrayed her testimony as [blank_1].) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 705.28 Tm (A. immutable) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 690.08 Tm (B. malleable) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 674.88 Tm (C. adaptable) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 659.68 Tm (D. meticulous) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 644.48 Tm (E. unassailable) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 629.28 Tm (F. laconic) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 614.08 Tm () Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 603.80 Tm (se-003. The curator expected a modest response to the obscure exhibit, but the opening proved) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 589.94 Tm (unexpectedly [blank_1], with visitors filling every gallery.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 571.08 Tm (A. muted) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 555.88 Tm (B. sparsely attended) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 540.68 Tm (C. well attended) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 525.48 Tm (D. tumultuous) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 510.28 Tm (E. popular) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 495.08 Tm (F. understated) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 479.88 Tm () Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 469.60 Tm (se-004. The analyst's forecast was [blank_1], not because it predicted disaster, but because it) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 455.74 Tm (rested on assumptions the report itself had already undermined.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 436.88 Tm (A. untenable) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 421.68 Tm (B. dire) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 406.48 Tm (C. indefensible) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 391.28 Tm (D. gloomy) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 376.08 Tm (E. prescient) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 360.88 Tm (F. austere) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 345.68 Tm () Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 335.40 Tm (se-005. Although the philosopher's lectures were demanding, students rarely found them [blank_1],) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 321.54 Tm (since each difficult claim was followed by a clarifying example.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 302.68 Tm (A. taxing) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 287.48 Tm (B. opaque) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 272.28 Tm (C. arduous) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 257.08 Tm (D. lucid) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 241.88 Tm (E. inscrutable) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 226.68 Tm (F. methodical) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 211.48 Tm () Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 201.20 Tm (se-006. The startup's founders presented their plan as revolutionary, but investors found it largely) Tj ET
+BT /F2 10.50 Tf 1 0 0 1 54.00 187.34 Tm ([blank_1], a repackaging of services already offered by several competitors.) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 168.48 Tm (A. derivative) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 153.28 Tm (B. novel) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 138.08 Tm (C. imitative) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 122.88 Tm (D. profitable) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 107.68 Tm (E. visionary) Tj ET
+BT /F1 10.00 Tf 1 0 0 1 70.00 92.48 Tm (F. precarious) Tj ET
+BT /F1 4.00 Tf 1 0 0 1 54.00 77.28 Tm () Tj ET
+BT /F1 9.00 Tf 1 0 0 1 288.00 28.00 Tm (Page 8) Tj ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 22 0 R >>
+endobj
+22 0 obj
+<< /Length 4324 >>
+stream
+BT /F2 18.00 Tf 1 0 0 1 54.00 738.00 Tm (Answer Key and Explanations) Tj ET
+54.00 706.00 m 558.00 706.00 l S
+BT /F2 11.50 Tf 1 0 0 1 54.00 694.00 Tm (rc-001 - Correct: B) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 674.00 Tm (The passage emphasizes that imaging can reveal useful features but does not by itself settle what those) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 660.54 Tm (features mean. Choice A overstates the role of imaging, while C, D, and E shift to issues the passage does not) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 647.07 Tm (make central.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 625.61 Tm (rc-002 - Correct: B) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 605.61 Tm (The conservators treat imaging as a source of hypotheses requiring corroboration, so they would reject the) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 592.14 Tm (claim that one imaging result is conclusive. The other choices are compatible with the passage's emphasis on) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 578.68 Tm (combining evidence.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 557.22 Tm (rc-003 - Correct: A, B) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 537.22 Tm (The passage explicitly allows that such a shape may be an abandoned plan, a repair, or a stain, so A and B are) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 523.75 Tm (supported. It does not say that this evidence by itself proves a different authorship, making C too strong.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 502.29 Tm (rc-004 - Correct: C) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 482.29 Tm (The passage says trees can cool neighborhoods, but their effect varies with street geometry, circulation, and) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 468.82 Tm (time of day. A and B are too sweeping, D reverses the emphasis, and E introduces a cause not discussed.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 447.36 Tm (rc-005 - Correct: C) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 427.36 Tm (The passage warns that canopy alone can fail to provide nighttime relief if airflow is ignored. A and B may be) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 413.90 Tm (useful, while D and E reflect the sort of broader planning the passage encourages.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 392.43 Tm (rc-006 - Correct: F) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 372.43 Tm (Sentence F explicitly states the planning conclusion: vegetation should be located with attention to geometry) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 358.97 Tm (and temperature cycles. Sentence E names a distinction planners make, but F directly states the practical) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 345.50 Tm (implication of that distinction.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 324.04 Tm (rc-007 - Correct: B) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 304.04 Tm (The author grants that the images can be comic but argues that they can also mark, extend, or complicate a) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 290.58 Tm (text. A is too narrow, C and D are unsupported generalizations, and E conflicts with the passage's) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 277.11 Tm (interpretive examples.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 255.65 Tm (rc-008 - Correct: B) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 235.65 Tm (The example supports the claim that a marginal image may do more than amuse: it can visually echo an idea in) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 222.18 Tm (the text. The other choices add unsupported claims about replacement, frequency, chronology, or fixed) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 208.72 Tm (meaning.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 187.26 Tm (rc-009 - Correct: A, B) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 167.26 Tm (The passage states that marginal images could mark a section and extend an argument by visual analogy,) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 153.79 Tm (supporting A and B. It emphasizes dependence on context and collaborators, so C is not supported.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 132.33 Tm (rc-010 - Correct: B) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 112.33 Tm (The passage contrasts measurable efficiency gains with the loss of an informal reporting channel. A, D, and E) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 98.86 Tm (are too absolute or contrary to the passage, and C turns a specific observation into a broad generalization.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 77.40 Tm (rc-011 - Correct: B) Tj ET
+BT /F1 9.00 Tf 1 0 0 1 288.00 28.00 Tm (Page 9) Tj ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 24 0 R >>
+endobj
+24 0 obj
+<< /Length 4713 >>
+stream
+BT /F1 10.20 Tf 1 0 0 1 54.00 738.00 Tm (The volunteers' concern is that rotating drivers weakened a channel for early problem reporting. Choice B) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 724.54 Tm (directly supports that causal link. A may be an efficiency benefit, and C, D, and E do not address the reporting) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 711.07 Tm (mechanism.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 689.61 Tm (rc-012 - Correct: C) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 669.61 Tm (Sentence C begins with a contrast and supplies the volunteers' observation that complicates the managers') Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 656.14 Tm (efficiency-focused assessment. Sentence D explains the mechanism, while E states the overall conclusion.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 634.68 Tm (rc-013 - Correct: B) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 614.68 Tm (The passage says returning bird species are useful indicators but not conclusive proof of functional recovery.) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 601.22 Tm (A is too strong, C and D are not the main focus, and E reverses the described practice.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 579.75 Tm (rc-014 - Correct: A) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 559.75 Tm (The researchers recommend additional measures because bird presence can occur before slower habitat) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 546.29 Tm (recovery. Choice A gives the relevant reason. C is a possible reason birds visit but does not by itself establish) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 532.82 Tm (incomplete recovery; E reverses the passage's timing claim.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 511.36 Tm (rc-015 - Correct: A, B) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 491.36 Tm (The passage explicitly recommends pairing bird surveys with vegetation structure and invertebrate) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 477.90 Tm (abundance, among other measures. C repeats the limited practice the researchers consider insufficient when) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 464.43 Tm (used alone.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 442.97 Tm (tc-001 - Correct: Blank 1: B) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 422.97 Tm (The memorandum dismisses every compromise, so it is uncompromising or intransigent. Placatory is tempting) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 409.50 Tm (because of the public statement, but the blank describes the contrasting private memorandum.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 388.04 Tm (tc-002 - Correct: Blank 1: A) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 368.04 Tm (The ability of new users to complete complex tasks without the manual indicates that the interface was easy) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 354.58 Tm (to understand, or intuitive. Ornate and opaque may describe interfaces, but they would not explain the users') Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 341.11 Tm (success.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 319.65 Tm (tc-003 - Correct: Blank 1: A) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 299.65 Tm (The clause after the semicolon says she avoids theatrical denunciation, so her prose is not polemical. Judicious) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 286.18 Tm (is tempting because the behavior is measured, but the sentence says what the prose is not.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 264.72 Tm (tc-004 - Correct: Blank 1: A; Blank 2: D) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 244.72 Tm (The contrast between praise and warning suggests that the concept was creative but not technically) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 231.26 Tm (workable. Ingenuity and impracticable fit this logic; lavish does not explain an engineering warning, and) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 217.79 Tm (transparent would be positive.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 196.33 Tm (tc-005 - Correct: Blank 1: A; Blank 2: E) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 176.33 Tm (The board's abrupt change from cursory approvals to heavy documentation suggests inconsistency rather) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 162.86 Tm (than genuine carefulness. Scrupulousness names the benign interpretation being rejected, and caprice) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 149.40 Tm (captures the criticism.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 127.94 Tm (tc-006 - Correct: Blank 1: A; Blank 2: E) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 107.94 Tm (The 'not...rather' structure indicates that the editor did not remove the eccentricity but clarified its) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 94.47 Tm (purpose. Standardize is what she was not doing, and discernible describes oddities made easier to perceive.) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 81.01 Tm (Amplify would not contrast cleanly with the second clause.) Tj ET
+BT /F1 9.00 Tf 1 0 0 1 288.00 28.00 Tm (Page 10) Tj ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 26 0 R >>
+endobj
+26 0 obj
+<< /Length 3873 >>
+stream
+BT /F2 11.50 Tf 1 0 0 1 54.00 738.00 Tm (tc-007 - Correct: Blank 1: A; Blank 2: D; Blank 3: G) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 718.00 Tm (The sentence praises balance: the biographer acknowledges positive evidence, does not let one kind of evidence) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 704.54 Tm (eclipse the other, and reaches a nuanced judgment. Peremptory would imply excessive certainty, not careful) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 691.07 Tm (balance.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 669.61 Tm (tc-008 - Correct: Blank 1: A; Blank 2: E; Blank 3: H) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 649.61 Tm (A failed replication would initially seem to discredit the original study. If the replication used a contaminated) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 636.14 Tm (reagent, it is irrelevant as contrary evidence, so the debate remains unresolved. Decisive and settled) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 622.68 Tm (contradict the audit's effect.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 601.22 Tm (tc-009 - Correct: Blank 1: A; Blank 2: E; Blank 3: G) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 581.22 Tm (The opening promises a strong defense, but the essay wanders into irrelevant anecdotes. Cogent fits the) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 567.75 Tm (promised argument, desultory fits the wandering execution, and diffusion captures the loss of focus. Focused) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 554.29 Tm (and incisive contradict the digression.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 532.82 Tm (se-001 - Correct: Blank 1: B, D) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 512.82 Tm (Avoiding broad pronouncements and deciding only a narrow issue points to an opinion that is circumscribed or) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 499.36 Tm (limited. Sweeping and expansive form a tempting pair but mean the opposite in context.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 477.90 Tm (se-002 - Correct: Blank 1: B, C) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 457.90 Tm (Repeatedly changing the account in response to evidence makes the testimony seem malleable or adaptable.) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 444.43 Tm (Immutable and unassailable are nearly favorable in legal contexts but contradict the described revisions.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 422.97 Tm (se-003 - Correct: Blank 1: C, E) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 402.97 Tm (Visitors filling every gallery indicates that the opening was well attended or popular. Muted and understated) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 389.50 Tm (are a tempting pair, but they conflict with the unexpectedly large response.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 368.04 Tm (se-004 - Correct: Blank 1: A, C) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 348.04 Tm (The problem is not pessimism but weak assumptions, so the forecast is untenable or indefensible. Dire and) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 334.58 Tm (gloomy are tempting synonyms, but the sentence explicitly says disaster was not the issue.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 313.11 Tm (se-005 - Correct: Blank 1: B, E) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 293.11 Tm (The lectures were difficult but not hard to understand because examples clarified them; opaque and) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 279.65 Tm (inscrutable fit what students rarely found them to be. Taxing and arduous are tempting synonyms, but the) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 266.18 Tm (sentence concedes that the lectures were demanding.) Tj ET
+BT /F2 11.50 Tf 1 0 0 1 54.00 244.72 Tm (se-006 - Correct: Blank 1: A, C) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 224.72 Tm (A repackaging of existing services is derivative or imitative. Novel and visionary match the founders' claim) Tj ET
+BT /F1 10.20 Tf 1 0 0 1 54.00 211.26 Tm (but not the investors' assessment; profitable and precarious are not supported by the sentence.) Tj ET
+BT /F1 9.00 Tf 1 0 0 1 288.00 28.00 Tm (Page 11) Tj ET
+endstream
+endobj
+xref
+0 27
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000190 00000 n 
+0000000287 00000 n 
+0000000389 00000 n 
+0000000525 00000 n 
+0000005082 00000 n 
+0000005218 00000 n 
+0000010283 00000 n 
+0000010420 00000 n 
+0000015972 00000 n 
+0000016110 00000 n 
+0000021505 00000 n 
+0000021643 00000 n 
+0000025067 00000 n 
+0000025205 00000 n 
+0000028426 00000 n 
+0000028564 00000 n 
+0000031981 00000 n 
+0000032119 00000 n 
+0000035555 00000 n 
+0000035693 00000 n 
+0000040070 00000 n 
+0000040208 00000 n 
+0000044974 00000 n 
+0000045112 00000 n 
+trailer
+<< /Size 27 /Root 1 0 R >>
+startxref
+49038
+%%EOF
