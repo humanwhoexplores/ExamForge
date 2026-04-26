@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate GRE-style generated dataset JSONL files."""
+"""Validate generated GRE- and LSAT-style dataset JSONL files."""
 
 import argparse
 import json
@@ -8,7 +8,29 @@ from pathlib import Path
 from typing import Any, Dict, Iterable, List, Tuple
 
 
-VALID_TYPES = {"text_completion", "sentence_equivalence", "reading_comprehension"}
+VALID_TYPES = {
+    "text_completion",
+    "sentence_equivalence",
+    "reading_comprehension",
+    "logical_reasoning",
+}
+
+LSAT_LOGICAL_REASONING_SUBTYPES = {
+    "strengthen",
+    "weaken",
+    "necessary_assumption",
+    "sufficient_assumption",
+    "flaw",
+    "method_of_reasoning",
+    "parallel_reasoning",
+    "parallel_flaw",
+    "inference",
+    "principle",
+    "disagreement",
+    "resolve_explain",
+}
+
+LSAT_READING_COMPREHENSION_SUBTYPES = {"single_passage", "comparative_passages"}
 
 
 def read_jsonl(path: Path) -> Iterable[Tuple[int, Dict[str, Any]]]:
@@ -68,6 +90,67 @@ def validate_answer_group(group: Dict[str, Any], line_number: int) -> List[str]:
     return errors
 
 
+def validate_passages(passages: Any, line_number: int) -> List[str]:
+    errors: List[str] = []
+    if not isinstance(passages, list) or not passages:
+        return [f"line {line_number}: passages must be a non-empty list"]
+
+    labels: List[str] = []
+    for index, passage in enumerate(passages, start=1):
+        if isinstance(passage, str):
+            if not passage.strip():
+                errors.append(f"line {line_number}: passage {index} must be a non-empty string")
+            continue
+
+        if not isinstance(passage, dict):
+            errors.append(f"line {line_number}: passage {index} must be a string or object")
+            continue
+
+        text = passage.get("text")
+        if not isinstance(text, str) or not text.strip():
+            errors.append(f"line {line_number}: passage {index} missing text")
+
+        if "label" in passage:
+            label = passage.get("label")
+            if not isinstance(label, str) or not label.strip():
+                errors.append(f"line {line_number}: passage {index} has invalid label")
+            else:
+                labels.append(label)
+
+    if len(labels) != len(set(labels)):
+        errors.append(f"line {line_number}: duplicate passage labels")
+
+    return errors
+
+
+def validate_single_best_answer_item(
+    answer_groups: List[Dict[str, Any]],
+    line_number: int,
+    question_label: str,
+) -> List[str]:
+    errors: List[str] = []
+    if len(answer_groups) != 1:
+        errors.append(f"line {line_number}: {question_label} must have one answer group")
+        return errors
+
+    group = answer_groups[0]
+    if not isinstance(group, dict):
+        errors.append(f"line {line_number}: {question_label} answer group must be an object")
+        return errors
+
+    choices = group.get("choices", [])
+    correct = group.get("correct_labels", [])
+
+    if group.get("blank") is not None:
+        errors.append(f"line {line_number}: {question_label} answer group must use blank null")
+    if len(choices) != 5:
+        errors.append(f"line {line_number}: {question_label} must have exactly five choices")
+    if len(correct) != 1:
+        errors.append(f"line {line_number}: {question_label} must have exactly one correct label")
+
+    return errors
+
+
 def validate_record(record: Dict[str, Any], line_number: int) -> List[str]:
     errors: List[str] = []
 
@@ -113,14 +196,46 @@ def validate_record(record: Dict[str, Any], line_number: int) -> List[str]:
                 errors.append(f"line {line_number}: sentence_equivalence must have exactly two correct labels")
 
     if question_type == "reading_comprehension":
-        if not isinstance(record.get("passage"), str) or not record.get("passage", "").strip():
+        subtype = record.get("subtype")
+        passages = record.get("passages")
+        uses_lsat_rc_schema = (
+            subtype in LSAT_READING_COMPREHENSION_SUBTYPES
+            or passages is not None
+            or record.get("passage_set_id") is not None
+        )
+
+        if uses_lsat_rc_schema:
+            if subtype not in LSAT_READING_COMPREHENSION_SUBTYPES:
+                errors.append(
+                    f"line {line_number}: invalid LSAT reading_comprehension subtype '{subtype}'"
+                )
+            if not isinstance(record.get("passage_set_id"), str) or not record.get("passage_set_id", "").strip():
+                errors.append(f"line {line_number}: LSAT reading_comprehension must include passage_set_id")
+            errors.extend(validate_single_best_answer_item(answer_groups, line_number, "LSAT reading_comprehension"))
+            errors.extend(validate_passages(passages, line_number))
+            if isinstance(passages, list):
+                expected_passage_count = 2 if subtype == "comparative_passages" else 1
+                if len(passages) != expected_passage_count:
+                    errors.append(
+                        f"line {line_number}: subtype '{subtype}' requires {expected_passage_count} passage"
+                        f"{'' if expected_passage_count == 1 else 's'}"
+                    )
+        elif not isinstance(record.get("passage"), str) or not record.get("passage", "").strip():
             errors.append(f"line {line_number}: reading_comprehension must include a passage")
+
+    if question_type == "logical_reasoning":
+        subtype = record.get("subtype")
+        if subtype not in LSAT_LOGICAL_REASONING_SUBTYPES:
+            errors.append(f"line {line_number}: invalid logical_reasoning subtype '{subtype}'")
+        if not isinstance(record.get("stimulus"), str) or not record.get("stimulus", "").strip():
+            errors.append(f"line {line_number}: logical_reasoning must include a stimulus")
+        errors.extend(validate_single_best_answer_item(answer_groups, line_number, "logical_reasoning"))
 
     return errors
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Validate generated GRE-style Verbal JSONL.")
+    parser = argparse.ArgumentParser(description="Validate generated GRE/LSAT-style JSONL.")
     parser.add_argument("path", type=Path)
     return parser.parse_args()
 
@@ -149,4 +264,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
